@@ -6,6 +6,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 
+
 public class MainActivity extends AppCompatActivity {
     @BindView(R.id.editTextNama)
     EditText etNama;
